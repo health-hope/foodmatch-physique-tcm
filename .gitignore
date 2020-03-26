@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+dist/
+*-lock.json
+.vscode
+foodmatch-physique-tcm
